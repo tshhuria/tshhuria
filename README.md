@@ -47,7 +47,7 @@ Explored expression patterns of dopamine, serotonin, and acetylcholine receptors
 📊 [**Trading Simulator using LSTM & ARIMA**](https://github.com/UoB-DSMP-2023-24/dsmp-2024-group15)  
 Built 12 financial models to simulate stock trading strategies using time series forecasting and deep learning.
 
-☁️ [**Azure Virtual Desktop (AVD) Migration**]  
+☁️ **Azure Virtual Desktop (AVD) Migration**
 Engineered scalable virtual environments to enable secure remote work for global teams, reducing infra costs by 30%.
 
 ---
