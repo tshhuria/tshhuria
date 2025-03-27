@@ -5,12 +5,11 @@
 🚀 Turning data into insight, and insight into impact.
 
 ---
-
 ## 💡 About Me
 
-I'm a data-driven technologist with a passion for **cloud infrastructure**, **machine learning**, and **bioinformatics**. With a strong foundation in both **data engineering** and **data science**, I enjoy building scalable pipelines, automating workflows, and solving complex problems with simple, elegant solutions.
+I'm a tech enthusiast blending the worlds of **cloud engineering**, **machine learning**, and **bioinformatics**. With hands-on experience in both research and production-grade systems, I thrive on building scalable infrastructure, automating data workflows, and delivering actionable insights.
 
-Previously, I worked as a **Cloud Engineer III**, leading Azure and AWS migrations, optimizing infrastructure, and delivering secure, high-availability environments. Now, I’m diving deeper into **ML/AI**, focusing on real-world applications in neuroscience, healthcare, and finance.
+Previously worked as a **Cloud Engineer III**, where I led full-scale **Azure and AWS migration projects**, secured infrastructure, and deployed resilient cloud solutions. I'm currently exploring ML applications in **genomics**, **time series forecasting**, and **precise psychiatry**.
 
 ---
 
@@ -23,12 +22,22 @@ Previously, I worked as a **Cloud Engineer III**, leading Azure and AWS migratio
 `Azure (AVD, ASR, ADF)`, `AWS`, `Terraform`, `CI/CD`, `Azure Monitor`, `Azure DevOps`
 
 **Data & Analytics:**  
-`Pandas`, `NumPy`, `Scikit-Learn`, `Tableau`, `Power BI`, ``Pandas', 'Tensorflow','Dimensionality Reduction'
+`Pandas`, `NumPy`, `Scikit-Learn`, `Tableau`, `Power BI`, `Dimensionality Reduction`
 
 **Machine Learning:**  
 `Random Forest`, `LSTM`, `UMAP`, `BERT`, `t-SNE`, `Time Series`, `NLP`, `Text Classification`
 
+**Data Science & ML**  
+`Scikit-Learn`, `TensorFlow`, `XGBoost`, `Random Forest`, `LSTM`, `ARIMA`, `UMAP`, `t-SNE`, `BERT`, `NLP`,  
+`Dimensionality Reduction`, `Time Series Classification`, `Ensemble Models`
+
 ---
+## 🧪 Domains of Interest
+
+- 🧬 **Bioinformatics & Neuroscience**: scRNA-seq analysis, gene expression mapping, receptor gene analysis  
+- ⏱️ **Time Series Forecasting**: trading simulations, anomaly detection  
+- 🧠 **Dimensionality Reduction**: for high-dimensional gene expression & behavioral data  
+- ☁️ **Cloud Architecture**: cost-efficient, high-availability enterprise infrastructure
 
 ## 📂 Highlight Projects
 
